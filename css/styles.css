@@ -1,0 +1,23 @@
+body {
+  background-color: #F4F9F9;
+  align-content: center;
+}
+hr{
+border-style: none;
+border-top-style: dotted;
+border-width: 10px;
+border-color: #5F939A;
+width: 5%;
+}
+img{
+height: 300px;
+}
+h1{
+  color: #3C8DAD;
+  font-family: "Papyrus", Times, fantasy;
+}
+h3
+{
+  text-decoration: underline;
+  color: #3C8DAD;
+}
